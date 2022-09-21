@@ -1,0 +1,40 @@
+h1
+{
+  color: #483838;
+  text-align: center;
+  padding: 3% 0 0 0;
+}
+h2
+{
+  color: #D2D79F;
+  line-height: 2.5;
+}
+.menu-image
+{
+  width: 200px;
+  border-radius: 100%;
+}
+.menu-image1
+{
+  width: 200px;
+  border-radius: 100%;
+}
+.menu-item
+{
+  text-align: center;
+}
+.biriyani{
+  padding: 5% 10%;
+}
+#biriyani{
+  background-color: #42855B;
+}
+#Side-dish
+{
+  background-color: #D2D79F;
+  padding: 10% 10%;
+}
+.side-dish
+{
+  color:#42855B;
+}
